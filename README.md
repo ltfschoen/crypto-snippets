@@ -2,6 +2,8 @@
 
 ## Web3.js 1.0.0 Beta with Infura
 
+### Setup
+
 Using Node.js to experiment with Web3.js 1.0.0 Beta and Infura.
 
 * Sign-up to Infura https://infura.io/signup
@@ -12,3 +14,11 @@ Using Node.js to experiment with Web3.js 1.0.0 Beta and Infura.
 ```
 INFURA_API_KEY="XYZ"
 ```
+
+* Install Node.js with NVM
+* Run:
+
+```
+node web3.js-1.0-beta-infura.js
+```
+
