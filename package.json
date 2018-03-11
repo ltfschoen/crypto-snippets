@@ -1,0 +1,13 @@
+{
+  "name": "crypto-snippets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luke Schoen",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^5.0.1"
+  },
+  "dependencies": {
+    "web3": "^1.0.0-beta.30"
+  }
+}
