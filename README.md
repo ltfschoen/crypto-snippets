@@ -15,7 +15,13 @@ Using Node.js to experiment with Web3.js 1.0.0 Beta and Infura.
 INFURA_API_KEY="XYZ"
 ```
 
-* Install Node.js with NVM
+* Install [Node.js](https://nodejs.org/en/download/) and dependencies with [NVM](https://github.com/creationix/nvm). Optionally use Yarn instead.
+
+```
+nvm use
+npm install
+```
+
 * Run:
 
 ```
